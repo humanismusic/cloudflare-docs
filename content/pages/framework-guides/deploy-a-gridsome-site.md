@@ -52,7 +52,7 @@ Deploy your site to Pages by logging in to the [Cloudflare dashboard](https://da
 
 </div>
 
-After configuring your site, you can begin your first deploy. You should see Cloudflare Pages installing `vuepress`, your project dependencies, and building your site, before deploying it.
+After configuring your site, you can begin your first deploy. You should see Cloudflare Pages installing `gridsome`, your project dependencies, and building your site, before deploying it.
 
 {{<Aside type="note">}}
 
