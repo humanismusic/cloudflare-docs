@@ -22,7 +22,7 @@ You can request adjustments to limits that conflict with your project goals by c
 | [Environment variables](#environment-variables)                                 | 64/Worker | 64/Worker |
 | [Environment variable<br/>size](#environment-variables)                         | 5 KB      | 5 KB      |
 | [Worker size](#worker-size)                                                     | 1 MB      | 1 MB      |
-| [Number of Workers](#number-of-workers)                                         | 30        | 100       |
+| [Number of Workers](#number-of-workers)                                         | 100       | 500       |
 | [Number of Cron Triggers<br/>per Worker](#number-of-schedules)                  | 3         | 3         |
 | [Number of Cron Triggers<br/>per account](#number-of-schedules-account)         | 5         | 250       |
 
@@ -252,7 +252,7 @@ A Worker can be up to 1 MB in size after compression. You can request adjustment
 
 ### Number of Workers
 
-Unless otherwise negotiated as a part of an enterprise level contract, all paid Workers accounts are limited to a maximum of 100 Workers at any given time. Free Workers accounts are limited to a maximum of 30 Workers at any given time.
+Unless otherwise negotiated as a part of an enterprise level contract, all paid Workers accounts are limited to a maximum of 500 Workers at any given time. Free Workers accounts are limited to a maximum of 100 Workers at any given time.
 
 {{<Aside type="note">}}
 
